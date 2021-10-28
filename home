@@ -72,9 +72,153 @@
     </ul>
   </div>
 </footer>
-<!-- Optional JavaScript; choose one of the two! --> 
+<!-- Optional JavaScript; choose one of @charset "utf-8";
+
+@media screen and (min-width: 900px) {
+	
+}
+.navbar, nav {
+  background-color: #7C8C03 !important;
+	font-family: brioso-pro, serif;
+	font-size: 25px;
+	font-weight: 600;
+	color: #000;
+	display: flex !important;
+	align-items: flex-start !important;
+}
+
+.nav-link {
+color: #2C4001 !important;
+transition: all .5s ease-out;
+}
+.nav-link:hover, .nav-link:focus {
+color: #F2BE5C !important;
+}
+body {
+  font-family: krete, serif;
+}
+h1, h2, h3, h4, strong {
+  font-family: brioso-pro, serif;
+	padding-top: 10px;
+}
+.bg-image {
+	 background-image: url("bg/xv.png");
+  background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: scroll;
+}
+main a:link, main a:visited {
+color: #7C8C03;
+transition: all .5s ease-out;
+}
+main a:hover, main a:active {
+color: blue;
+background-color: #BDE3F2;
+padding: 3px 6px;
+}
+
+footer {
+  background-color: #7C8C03;
+	padding-top: 3px;
+	padding-bottom: 3px;
+}
+
+.footer-text a:link, .footer-text a:visited {
+color: #F2BE5C;
+transition: all .5s ease-out;
+}
+.footer-text a:hover, .footer-text a:active {
+color: #2C4001;
+background-color: #BDE3F2;
+padding: 3px 6px;
+}
+footer svg {
+fill: #F2BE5C;
+transition: all .5s ease-out;
+}
+footer svg:hover {
+fill: #BDE3F2;
+transform: scale(1.4);
+}
+.logo {
+	display: flex;
+	flex: 0 1 20vw;
+}the two! --> 
 
 <!-- Option 1: Bootstrap Bundle with Popper --> 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
 </body>
 </html>
+
+@charset "utf-8";
+
+@media screen and (min-width: 900px) {
+	
+}
+.navbar, nav {
+  background-color: #7C8C03 !important;
+	font-family: brioso-pro, serif;
+	font-size: 25px;
+	font-weight: 600;
+	color: #000;
+	display: flex !important;
+	align-items: flex-start !important;
+}
+
+.nav-link {
+color: #2C4001 !important;
+transition: all .5s ease-out;
+}
+.nav-link:hover, .nav-link:focus {
+color: #F2BE5C !important;
+}
+body {
+  font-family: krete, serif;
+}
+h1, h2, h3, h4, strong {
+  font-family: brioso-pro, serif;
+	padding-top: 10px;
+}
+.bg-image {
+	 background-image: url("bg/xv.png");
+  background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: scroll;
+}
+main a:link, main a:visited {
+color: #7C8C03;
+transition: all .5s ease-out;
+}
+main a:hover, main a:active {
+color: blue;
+background-color: #BDE3F2;
+padding: 3px 6px;
+}
+
+footer {
+  background-color: #7C8C03;
+	padding-top: 3px;
+	padding-bottom: 3px;
+}
+
+.footer-text a:link, .footer-text a:visited {
+color: #F2BE5C;
+transition: all .5s ease-out;
+}
+.footer-text a:hover, .footer-text a:active {
+color: #2C4001;
+background-color: #BDE3F2;
+padding: 3px 6px;
+}
+footer svg {
+fill: #F2BE5C;
+transition: all .5s ease-out;
+}
+footer svg:hover {
+fill: #BDE3F2;
+transform: scale(1.4);
+}
+.logo {
+	display: flex;
+	flex: 0 1 20vw;
+}
